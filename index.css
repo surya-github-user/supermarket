@@ -13978,5 +13978,8 @@ fieldset:disabled .btn {
     top: 0;
     left: 0;
 }
+body{
+    overflow-x: hidden;
+}
 
 /*# sourceMappingURL=bootstrap.min.css.map */
